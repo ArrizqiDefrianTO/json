@@ -1,9 +1,13 @@
 [
 	{ 
 		"nama" : "Arrizqi Defrianto Nur Hamzah",
-		"umur" : 16,
+		"umur" : 20,
 		"nrp" : "173040160",
 		"lulus" : true,
-		"hobby" : ["volly"]
+		"hobby" : [	"volly"	],
+		"pembimbing" : {
+			"pembimbing1" : "Doddy Ferdiansyah",
+			"pembimbing2" : "Erik Doank"
+		}
 	}
 ]
